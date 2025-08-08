@@ -13,3 +13,5 @@ function App() {
 }
 
 export default App;
+
+// jadi key itu dipakai kalau kamu ingin membuat element di jxs di react seperti div,ul,li dll.
